@@ -5,6 +5,12 @@ It provides a visual task management system that helps users organize tasks into
 
 ---
 
+## Live Deploymne on netlify.app
+
+https://famous-lollipop-4b9884.netlify.app/
+
+---
+
 ## Project Description
 
 The Kanban Board allows users to create multiple boards representing different stages of a workflow.  
