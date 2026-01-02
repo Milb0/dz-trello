@@ -1,0 +1,4 @@
+.board {
+  min-width: 280px;
+  border-top: 4px solid var(--primary);
+}
